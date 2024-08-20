@@ -1,3 +1,3 @@
-Venho apresentar, meu portifólio usando CSS e HTML
+I come to present my portfolio using CSS and HTML
 
-https://felipe-salino.github.io/my-github-page/
+
